@@ -1,4 +1,4 @@
-package com.yfo.monolith.pojo;
+package com.yfo.monolith.data;
 
 import com.google.gson.annotations.SerializedName;
 
